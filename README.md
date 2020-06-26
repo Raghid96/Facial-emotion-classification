@@ -1,6 +1,6 @@
 # Facial-emotion-classification
 
-This program is done for facial emotion extraction. It has three parts:
+This program is done for facial emotion classification. It has three parts:
 
 - Feature_extraction.m is a matlab script extracting features from facial landmarks
 - Label_extraction.m is a matlab script extracting the labels of the features
